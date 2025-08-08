@@ -158,3 +158,15 @@ This project showcases a wide range of SQL techniques, organized by their functi
 - Subqueries & Derived Tables(CTE)
 - Conditional Logic & Calculations(CASE STATEMENTS)
 - Window Functions (Analytical Functions)
+
+## 🛠️ Tools & Technologies Used
+
+This project was executed using the following tools and technologies:
+
+- **SQL** – Core language used for querying, joining, aggregating, and analyzing relational data  
+- **PostgreSQL** – Relational database used to create the schema, import data, and execute analysis queries  
+- **pgAdmin** – GUI tool used to manage the PostgreSQL database and run SQL scripts  
+- **CSV Files** – Provided structured raw data for products, sales, customers, employees, and locations  
+- **Git & GitHub** – Version control and project hosting for collaboration and version tracking  
+- **Excel**– Used for quick previews and validation of the dataset  
+- **ER Diagram Tool** – Used to design and visualize the entity-relationship model of the database  
