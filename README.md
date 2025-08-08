@@ -102,3 +102,33 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 
 ![ER Diagram](ERD_of_Sales.png)
 
+
+
+## 🎯 Key Analytical Use Cases
+
+This project enables data exploration across multiple business dimensions:
+
+- **📅 Time-Based Analysis**
+  - Track sales trends over the four-month period
+  - Measure month-over-month performance
+  - Identify seasonal peaks or dips
+
+- **📦 Product Performance**
+  - Determine top and bottom-selling products
+  - Analyze sales revenue and quantity per product
+  - Evaluate product types and their contribution to revenue
+
+- **👤 Customer Behavior**
+  - Identify high-value vs. low-engagement customers
+  - Segment customers by purchase frequency and spending
+  - Calculate average basket size and repeat purchases
+
+- **👨‍💼 Employee Effectiveness**
+  - Compare employee contributions to total sales
+  - Highlight top-performing and underperforming staff
+  - Track sales per employee over time
+
+- **🌍 Regional Sales Insights**
+  - Visualize sales across cities and countries
+  - Identify high-performing regions
+  - Support regional sales strategies and planning
