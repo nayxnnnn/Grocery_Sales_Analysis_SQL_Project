@@ -137,11 +137,11 @@ This project enables data exploration across multiple business dimensions:
 
 This project showcases a wide range of SQL techniques, organized by their functional categories:
 
-### 🧾 Data Manipulation (DML)
-### 🏗️ Data Definition (DDL)
-### 🔗 Joins & Relationships
-### 📊 Aggregation & Grouping Function
-### 🔃 Sorting & Ranking
-### 🧩 Subqueries & Derived Tables(CTE)
-### 🪄 Conditional Logic & Calculations(CASE STATEMENTS)
-### 🪟 Window Functions (Analytical Functions)
+- Data Manipulation (DML)
+- Data Definition (DDL)
+- Joins & Relationships
+- Aggregation & Grouping Function
+- Sorting & Ranking
+- Subqueries & Derived Tables(CTE)
+- Conditional Logic & Calculations(CASE STATEMENTS)
+- Window Functions (Analytical Functions)
