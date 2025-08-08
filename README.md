@@ -132,3 +132,17 @@ This project enables data exploration across multiple business dimensions:
   - Visualize sales across cities and countries
   - Identify high-performing regions
   - Support regional sales strategies and planning
+ 
+
+## 🧮 Types of Analysis Used
+
+This project applies a range of analytical methods to explore and interpret the grocery sales dataset:
+
+- **📊 Descriptive Analysis**
+- **📈 Trend Analysis**
+- **🧱 Aggregation & Grouping**
+- **📌 Comparative Analysis**
+- **👥 Customer Segmentation**
+- **📍 Geospatial Analysis**
+- **🧮 Calculated Metrics**
+  
