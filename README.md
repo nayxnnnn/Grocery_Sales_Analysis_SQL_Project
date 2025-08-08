@@ -23,7 +23,7 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 
 ---
 
-### 🧾 `sales.csv`
+###  `sales.csv`
 | Column Name        | Description                                                  |
 |--------------------|--------------------------------------------------------------|
 | SalesID            | Unique identifier for each sales transaction                 |
@@ -38,7 +38,7 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 
 ---
 
-### 📦 `products.csv`
+###  `products.csv`
 | Column Name   | Description                                                       |
 |---------------|-------------------------------------------------------------------|
 | ProductID     | Unique identifier for each product                                |
@@ -53,7 +53,7 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 
 ---
 
-### 👥 `customers.csv`
+###  `customers.csv`
 | Column Name   | Description                                      |
 |---------------|--------------------------------------------------|
 | CustomerID    | Unique identifier for each customer              |
@@ -63,7 +63,7 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 
 ---
 
-### 👨‍💼 `employees.csv`
+###  `employees.csv`
 | Column Name   | Description                                      |
 |---------------|--------------------------------------------------|
 | EmployeeID    | Unique identifier for each employee              |
@@ -75,7 +75,7 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 
 ---
 
-### 🗂 `categories.csv`
+###  `categories.csv`
 | Column Name   | Description                                        |
 |---------------|----------------------------------------------------|
 | CategoryID    | Unique identifier for each product category        |
@@ -83,7 +83,7 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 
 ---
 
-### 🌆 `cities.csv`
+###  `cities.csv`
 | Column Name   | Description                                      |
 |---------------|--------------------------------------------------|
 | CityID        | Unique identifier for each city                  |
@@ -93,7 +93,7 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 
 ---
 
-### 🌍 `countries.csv`
+###  `countries.csv`
 | Column Name   | Description                                      |
 |---------------|--------------------------------------------------|
 | CountryID     | Unique identifier for each country               |
@@ -104,31 +104,31 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 
 
 
-## 🎯 Key Analytical Use Cases
+## Key Analytical Use Cases
 
 This project enables data exploration across multiple business dimensions:
 
-- **📅 Time-Based Analysis**
+- ** Time-Based Analysis**
   - Track sales trends over the four-month period
   - Measure month-over-month performance
   - Identify seasonal peaks or dips
 
-- **📦 Product Performance**
+- ** Product Performance**
   - Determine top and bottom-selling products
   - Analyze sales revenue and quantity per product
   - Evaluate product types and their contribution to revenue
 
-- **👤 Customer Segmentation & Behavior**
+- ** Customer Segmentation & Behavior**
   - Identify high-value vs. low-engagement customers
   - Segment customers by purchase frequency and spending
   - Calculate average basket size and repeat purchases
 
-- **👨‍💼 Employee Effectiveness**
+- ** Employee Effectiveness**
   - Compare employee contributions to total sales
   - Highlight top-performing and underperforming staff
   - Track sales per employee over time
 
-- **🌍 Regional Sales Insights**
+- ** Regional Sales Insights**
   - Visualize sales across cities and countries
   - Identify high-performing regions
   - Support regional sales strategies and planning
@@ -138,7 +138,7 @@ This project enables data exploration across multiple business dimensions:
 
 Based on the various analyses performed in this project, here are the key insights and takeaways:
 
-### 🔍 What We Found
+###  What We Found
 - **Top-performing products** were concentrated in a few categories (e.g., Beverages and Dairy), while others underperformed despite large inventories.
 - **Sales staff performance** varied significantly — a few employees contributed a majority of revenue, highlighting the potential for targeted training or rewards.
 - **Customer segmentation** revealed that a small subset of **repeat buyers drove higher revenue and order value**, while most customers were one-time shoppers.
@@ -146,7 +146,7 @@ Based on the various analyses performed in this project, here are the key insigh
 - **TotalPrice field inconsistencies** (missing or zero values) were corrected using:  
 
  
-## 🧠 SQL Skills Applied
+##  SQL Skills Applied
 
 This project showcases a wide range of SQL techniques, organized by their functional categories:
 
@@ -159,7 +159,7 @@ This project showcases a wide range of SQL techniques, organized by their functi
 - Conditional Logic & Calculations(CASE STATEMENTS)
 - Window Functions (Analytical Functions)
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 This project was executed using the following tools and technologies:
 
