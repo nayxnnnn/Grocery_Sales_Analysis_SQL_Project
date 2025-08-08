@@ -118,7 +118,7 @@ This project enables data exploration across multiple business dimensions:
   - Analyze sales revenue and quantity per product
   - Evaluate product types and their contribution to revenue
 
-- **👤 Customer Behavior**
+- **👤 Customer Segmentation & Behavior**
   - Identify high-value vs. low-engagement customers
   - Segment customers by purchase frequency and spending
   - Calculate average basket size and repeat purchases
@@ -133,16 +133,15 @@ This project enables data exploration across multiple business dimensions:
   - Identify high-performing regions
   - Support regional sales strategies and planning
  
+## 🧠 SQL Skills Applied
 
-## 🧮 Types of Analysis Used
+This project showcases a wide range of SQL techniques, organized by their functional categories:
 
-This project applies a range of analytical methods to explore and interpret the grocery sales dataset:
-
-- **📊 Descriptive Analysis**
-- **📈 Trend Analysis**
-- **🧱 Aggregation & Grouping**
-- **📌 Comparative Analysis**
-- **👥 Customer Segmentation**
-- **📍 Geospatial Analysis**
-- **🧮 Calculated Metrics**
-  
+### 🧾 Data Manipulation (DML)
+### 🏗️ Data Definition (DDL)
+### 🔗 Joins & Relationships
+### 📊 Aggregation & Grouping Function
+### 🔃 Sorting & Ranking
+### 🧩 Subqueries & Derived Tables(CTE)
+### 🪄 Conditional Logic & Calculations(CASE STATEMENTS)
+### 🪟 Window Functions (Analytical Functions)
