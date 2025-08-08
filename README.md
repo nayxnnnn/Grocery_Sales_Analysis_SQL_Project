@@ -7,18 +7,11 @@ This project is designed to help data analysts and aspiring data scientists prac
 
 ## 📁 Dataset Schema
 
-The project is built using a relational database consisting of the following CSV files and SQL scripts:
-
-| File Name                      | Description |
-|-------------------------------|-------------|
-| `sales.csv`                   | Sales transactions including product, customer, and employee IDs |
-| `products.csv`                | Product details including price, category, type, and lifespan |
-| `categories.csv`              | Product category names (e.g., Beverages, Cereals) |
-| `customers.csv`               | Customer demographics and city linkage |
-| `employees.csv`               | Employee records including birthdate and hire date |
-| `cities.csv`                  | City-level data with foreign key to countries |
-| `countries.csv`               | Country names and codes |
-| `GrocerySalesDatabaseSchema.sql` | SQL script to create the database schema |
-| `GrocerySales_Analysis.sql`   | SQL queries for insights and analysis |
-| `ERD_of_Sales.png`            | Entity-Relationship Diagram of the database |
-
+File Name	     Description
+categories.csv	Defines the categories of the products.
+cities.csv	Contains city-level geographic data.
+countries.csv	Stores country-related metadata.
+customers.csv	Contains information about the customers who make purchases.
+employees.csv	Stores details of employees handling sales transactions.
+products.csv	Stores details about the products being sold.
+sales.csv	Contains transactional data for each sale.
