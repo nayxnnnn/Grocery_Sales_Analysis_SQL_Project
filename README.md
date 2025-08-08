@@ -99,3 +99,6 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 | CountryID     | Unique identifier for each country               |
 | CountryName   | Name of the country                              |
 | CountryCode   | Abbreviated code for the country                 |
+
+![ER Diagram](ERD_of_Sales.png)
+
