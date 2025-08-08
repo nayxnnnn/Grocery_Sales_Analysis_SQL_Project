@@ -132,6 +132,19 @@ This project enables data exploration across multiple business dimensions:
   - Visualize sales across cities and countries
   - Identify high-performing regions
   - Support regional sales strategies and planning
+
+
+  ## 📌 Findings & Key Insights
+
+Based on the various analyses performed in this project, here are the key insights and takeaways:
+
+### 🔍 What We Found
+- **Top-performing products** were concentrated in a few categories (e.g., Beverages and Dairy), while others underperformed despite large inventories.
+- **Sales staff performance** varied significantly — a few employees contributed a majority of revenue, highlighting the potential for targeted training or rewards.
+- **Customer segmentation** revealed that a small subset of **repeat buyers drove higher revenue and order value**, while most customers were one-time shoppers.
+- **City-level analysis** showed that some cities had high customer counts but low sales, suggesting a gap in product-market fit or local strategy.
+- **TotalPrice field inconsistencies** (missing or zero values) were corrected using:  
+
  
 ## 🧠 SQL Skills Applied
 
