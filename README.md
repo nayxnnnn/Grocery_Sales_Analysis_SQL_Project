@@ -23,7 +23,7 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 
 ---
 
-###  `sales.csv`
+  `sales.csv`
 | Column Name        | Description                                                  |
 |--------------------|--------------------------------------------------------------|
 | SalesID            | Unique identifier for each sales transaction                 |
