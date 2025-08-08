@@ -100,8 +100,11 @@ Below is a breakdown of each CSV file used in the project along with the meaning
 | CountryName   | Name of the country                              |
 | CountryCode   | Abbreviated code for the country                 |
 
-![ER Diagram](ERD_of_Sales.png)
+## Entity Relationship Diagram (ERD)
 
+The following ERD illustrates the relationships between key entities in the Grocery Sales Database, including products, sales, customers, employees, and location data.
+
+![ER Diagram](ERD_of_Sales.png)
 
 
 ## Key Analytical Use Cases
