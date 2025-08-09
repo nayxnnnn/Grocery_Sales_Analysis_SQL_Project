@@ -1,4 +1,4 @@
-# Grocery_Sales_Data_Analysis_Project
+# Grocery_Sales_Analysis_SQL_Project
 
 ## 📌 Project Overview
 
