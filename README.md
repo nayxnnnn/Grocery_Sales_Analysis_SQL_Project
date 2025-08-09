@@ -137,18 +137,19 @@ This project enables data exploration across multiple business dimensions:
   - Support regional sales strategies and planning
 
 
-  ## 📌 Findings & Key Insights
+  ## 📌 Key Takeaways from My Analysis 
 
-Based on the various analyses performed in this project, here are the key insights and takeaways:
+With my SQL queries, I was able to gain insights such as Based on the various analyses performed in this project, here are the key insights and takeaways:
 
-###  What We Found
-- **Top-performing products** were concentrated in a few categories (e.g., Beverages and Dairy), while others underperformed despite large inventories.
-- **Sales staff performance** varied significantly — a few employees contributed a majority of revenue, highlighting the potential for targeted training or rewards.
-- **Customer segmentation** revealed that a small subset of **repeat buyers drove higher revenue and order value**, while most customers were one-time shoppers.
-- **City-level analysis** showed that some cities had high customer counts but low sales, suggesting a gap in product-market fit or local strategy.
-- **TotalPrice field inconsistencies** (missing or zero values) were corrected using:  
+###   My Insights from SQL Analysis 
+- Top-performing products were Top-selling products (by total quantity sold)
+- Bottom-selling products (quantity < 10)
+- Monthly sales revenue trends - Sales peak in **January & March** and drop slightly in **February & April**.
+- Sales staff performance varied significantly — Top employees by revenue generated , Top employees make a big difference in revenue,Average discount by employee.
+- Customer segmentation revealed that Most frequent customers.
+- City-level analysis showed that some Top cities by number of sales.
+- Categories with seasonal trends - Top product categories by revenue. **Meat** and **Confections** are the top-performing categories.
 
- 
 ##  SQL Skills Applied
 
 This project showcases a wide range of SQL techniques, organized by their functional categories:
